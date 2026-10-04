@@ -6,7 +6,8 @@
   "scripts": {
     "format": "prettier --check .",
     "lint": "eslint .",
-    "test": "jest"
+    "test": "jest",
+    "prettier": "prettier --check ."
   },
   "repository": {
     "type": "git",
